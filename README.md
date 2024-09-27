@@ -6,7 +6,8 @@ I'm a passionate developer on a mission to grow and make an impact through code!
 - 💻 Currently completing the **100 Days of Code** challenge with Angela Yu's course! I'm at **Day 31** and loving every minute of it! 🎯
 - 📚 Lifelong learner always seeking new opportunities to improve my coding abilities.
 - 🚀 I specialize in **Python** and love diving deep into error handling and other complex concepts.
-- 🌱 Exploring GUI development and data analysis with **Tkinter** and **Pandas**. Creating projects like **Pong** 🏓, **Snake** 🐍, **Pomodoro Timer App** 🍅, **Password Manager** 🔐.
+- 🌱 Exploring GUI development and data analysis with **Tkinter** and **Pandas**. Creating projects like **Pong** 🏓, **Snake** 🐍,
+  **Pomodoro Timer App** 🍅, **Password Manager** 🔐.
 - 🛠️ Looking to build more cool projects and contribute to open-source.
 
 ## 🛠️ Technologies & Tools:
