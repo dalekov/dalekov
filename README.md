@@ -3,9 +3,8 @@
 I'm a passionate developer on a mission to grow and make an impact through code! 💻 I believe that with consistency and dedication, I'll achieve my goal of becoming a skilled developer! 💪
 
 ## 🔥 About Me:
-- 💻 Currently completing the **100 Days of Code** challenge with Angela Yu's course! I'm at **Day 35** and loving every minute of it! 🎯
-- 📚 Lifelong learner always seeking new opportunities to improve my coding abilities.
 - 🚀 I specialize in **Python** and love diving deep into error handling and other complex concepts.
+- 📚 Lifelong learner always seeking new opportunities to improve my coding abilities.
 - 🌱 Exploring GUI development and data analysis with **Tkinter** and **Pandas**. Creating projects like **Pong** 🏓, **Snake** 🐍,
   **Pomodoro Timer App** 🍅, **Password Manager** 🔐.
 - 🛠️ Looking to build more cool projects and contribute to open-source.
