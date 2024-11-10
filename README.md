@@ -5,8 +5,6 @@ I'm a passionate developer on a mission to grow and make an impact through code!
 ## 🔥 About Me:
 - 🚀 I specialize in **Python** and love diving deep into error handling and other complex concepts.
 - 📚 Lifelong learner always seeking new opportunities to improve my coding abilities.
-- 🌱 Exploring GUI development and data analysis with **Tkinter** and **Pandas**. Creating projects like **Pong** 🏓, **Snake** 🐍,
-  **Pomodoro Timer App** 🍅, **Password Manager** 🔐.
 - 🛠️ Looking to build more cool projects and contribute to open-source.
 
 ## 🛠️ Technologies & Tools:
@@ -15,7 +13,7 @@ I'm a passionate developer on a mission to grow and make an impact through code!
 - **Frameworks**: Want to learn Flask 🧪 and Django 🌱
 - **Libraries**: Turtle Graphics, Tkinter, Pandas, Datetime
 
-## 🚀 Current Projects:
+## 🚀 Highlighted projects:
 - 🏓 **Pong Game**: A fun two-player game built with Python and Turtle Graphics.
 - 🐍 **Snake Game**: Classic snake game where you grow longer by eating food.
 - 🍅 **Pomodoro Timer**: A productivity tool that uses the Pomodoro Technique to help manage time effectively with focused work sessions and breaks.
