@@ -13,7 +13,7 @@ I'm a passionate developer on a mission to grow and make an impact through code!
 - **Languages**: Python 🐍
 - **Tools**: Git & GitHub 🛠️, PyCharm 🖥️
 - **Frameworks**: Want to learn Flask 🧪 and Django 🌱
-- **Libraries**: Turtle Graphics, Tkinter, Pandas
+- **Libraries**: Turtle Graphics, Tkinter, Pandas, Datetime, 
 
 ## 🚀 Current Projects:
 - 🏓 **Pong Game**: A fun two-player game built with Python and Turtle Graphics.
@@ -22,7 +22,7 @@ I'm a passionate developer on a mission to grow and make an impact through code!
 - 🔐 **Password Manager**: App to store and manage passwords. For personal use
 
 ## 🌟 What I'm Working On:
-- **100 Days of Code**: 36/100. Focused on completing this challenge, refining my skills with exciting projects.
+- **100 Days of Code**: 39/100. Focused on completing this challenge, refining my skills with exciting projects.
 - **Python Fundamentals**: Diving deeper into core concepts, strengthening my foundation in Python.
 
 ## 📫 Let's Connect:
