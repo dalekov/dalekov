@@ -3,7 +3,7 @@
 I'm a passionate developer on a mission to grow and make an impact through code! 💻 I believe that with consistency and dedication, I'll achieve my goal of becoming a skilled developer! 💪
 
 ## 🔥 About Me:
-- 🚀 I specialize in **Python** and love diving deep into error handling and other complex concepts.
+- 🚀 I specialize in **Python** and love diving deep into complex concepts.
 - 📚 Lifelong learner always seeking new opportunities to improve my coding abilities.
 - 🛠️ Looking to build more cool projects and contribute to open-source.
 
