@@ -33,6 +33,9 @@ I'm a passionate developer on a mission to grow and make an impact through code!
 - **Python Fundamentals**: Diving deeper into core concepts, strengthening my foundation in Python.
 
 ## 📫 Let's Connect:
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mario-zahariev-753a7b202/)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:webbersof@gmail.com)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Denis%20Alekov-blue)](https://www.linkedin.com/in/dalekov/)
 [![Email](https://img.shields.io/badge/Email-denis.alekov1@gmail.com-red)](mailto:denis.alekov1@gmail.com)
 
