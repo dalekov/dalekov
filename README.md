@@ -17,11 +17,18 @@ I'm a passionate developer on a mission to grow and make an impact through code!
 <a href="https://git-scm.com/">
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </a>
+
+
+- **To Do**:
 <a href="https://www.djangoproject.com/">
   <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
 </a>
-
-- **Frameworks**: Want to learn Flask 🧪 and Django 🌱
+<a href="https://flask.palletsprojects.com/">
+  <img src="https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+</a>
 
 ## 🚀 Highlighted projects:
 - 🏓 **Pong Game**: A fun two-player game built with Python and Turtle Graphics.
