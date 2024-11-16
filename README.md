@@ -32,6 +32,8 @@ I'm a passionate developer on a mission to grow and make an impact through code!
 [![Email](https://img.shields.io/badge/Email-denis.alekov1@gmail.com-red)](mailto:denis.alekov1@gmail.com)
 
 [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/23987588/denignn)  
+[![Discord](https://img.shields.io/badge/Discord-shmentikapeli-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/shmentikapeli)
+
 
 
 Thanks for stopping by, and let's keep coding! 🚀👨‍💻👩‍💻
