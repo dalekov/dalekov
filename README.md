@@ -42,6 +42,6 @@ I'm a passionate developer on a mission to grow and make an impact through code!
 
 ## 📫 Let's Connect:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Denis%20Alekov-blue)](https://www.linkedin.com/in/dalekov/)
-- [Email](denis.alekov1@gmail.com)
+[![Email](https://img.shields.io/badge/Email-denis.alekov1@gmail.com-red)](mailto:denis.alekov1@gmail.com)
 
 Thanks for stopping by, and let's keep coding! 🚀👨‍💻👩‍💻
