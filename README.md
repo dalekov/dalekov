@@ -41,7 +41,7 @@ I'm a passionate developer on a mission to grow and make an impact through code!
 - **Python Fundamentals**: Diving deeper into core concepts, strengthening my foundation in Python.
 
 ## 📫 Let's Connect:
-- [LinkedIn](https://www.linkedin.com/in/dalekov/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Denis%20Alekov-blue)](https://www.linkedin.com/in/dalekov/)
 - [Email](denis.alekov1@gmail.com)
 
 Thanks for stopping by, and let's keep coding! 🚀👨‍💻👩‍💻
