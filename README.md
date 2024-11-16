@@ -30,7 +30,8 @@ I'm a passionate developer on a mission to grow and make an impact through code!
 ## 📫 Let's Connect:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Denis%20Alekov-blue)](https://www.linkedin.com/in/dalekov/)
 [![Email](https://img.shields.io/badge/Email-denis.alekov1@gmail.com-red)](mailto:denis.alekov1@gmail.com)
-[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-23987588-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/23987588/denignn)  
+
+[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/23987588/denignn)  
 
 
 Thanks for stopping by, and let's keep coding! 🚀👨‍💻👩‍💻
