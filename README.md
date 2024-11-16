@@ -20,6 +20,7 @@ I'm a passionate developer on a mission to grow and make an impact through code!
 
 
 - **To Do**:
+
 <a href="https://www.djangoproject.com/"><img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" /></a><a href="https://flask.palletsprojects.com/"><img src="https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" /></a>
 
 
