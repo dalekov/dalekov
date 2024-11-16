@@ -43,5 +43,6 @@ I'm a passionate developer on a mission to grow and make an impact through code!
 [![Discord](https://img.shields.io/badge/Discord-shmentikapeli-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/shmentikapeli)
 
 
-
-Thanks for stopping by, and let's keep coding! 🚀👨‍💻👩‍💻
+### 🚀 Thanks for stopping by! 
+**Let's keep coding** and **achieve great things together!** 💻💥   
+Stay curious, stay motivated, and don't forget: **consistency is key!** 💪🌟
