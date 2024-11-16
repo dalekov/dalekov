@@ -14,11 +14,10 @@ I'm a passionate developer on a mission to grow and make an impact through code!
 <a href="https://github.com/">
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
-
-- **Languages**: Python 🐍
-- **Tools**: Git & GitHub 🛠️, PyCharm 🖥️
+<a href="https://git-scm.com/">
+  <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+</a>
 - **Frameworks**: Want to learn Flask 🧪 and Django 🌱
-- **Libraries**: Turtle Graphics, Tkinter, Pandas, Datetime
 
 ## 🚀 Highlighted projects:
 - 🏓 **Pong Game**: A fun two-player game built with Python and Turtle Graphics.
