@@ -17,6 +17,9 @@ I'm a passionate developer on a mission to grow and make an impact through code!
 <a href="https://git-scm.com/">
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </a>
+<a href="https://www.djangoproject.com/">
+  <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
+</a>
 
 - **Frameworks**: Want to learn Flask 🧪 and Django 🌱
 
