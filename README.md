@@ -11,6 +11,10 @@ I'm a passionate developer on a mission to grow and make an impact through code!
 <a href="https://github.com/YovkoBuchkov/Python">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
 </a>
+<a href="https://github.com/">
+  <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+
 - **Languages**: Python 🐍
 - **Tools**: Git & GitHub 🛠️, PyCharm 🖥️
 - **Frameworks**: Want to learn Flask 🧪 and Django 🌱
