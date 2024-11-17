@@ -37,6 +37,7 @@ I'm a passionate developer on a mission to grow and make an impact through code!
 
 
 
+
 ## 🚀 Highlighted projects:
 - 🏓 **Pong Game**: A fun two-player game built with Python and Turtle Graphics.
 - 🐍 **Snake Game**: Classic snake game where you grow longer by eating food.
