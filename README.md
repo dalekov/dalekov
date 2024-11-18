@@ -7,14 +7,8 @@ I'm a passionate developer on a mission to grow and make an impact through code!
 - 📚 Lifelong learner always seeking new opportunities to improve my coding abilities.
 - 🛠️ Looking to build more cool projects and contribute to open-source.
 
-## 🛠️ Tech Stack
-- **Programming Languages**:
-<a href="https://github.com/dalekov"><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" /></a>
-- **To Do**:
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-</a>
-  
+#### 🛠️ Tech Stack
+
 <a href="https://github.com/"><img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" /></a>
 <a href="https://wiki.python.org/moin/TkInter"><img src="https://img.shields.io/badge/Tkinter-1F8F8C?style=for-the-badge&logo=python&logoColor=white" alt="Tkinter" /></a>
@@ -39,7 +33,10 @@ I'm a passionate developer on a mission to grow and make an impact through code!
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
 </a>
-
+<a href="https://github.com/dalekov"><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+</a>
 
 
 
