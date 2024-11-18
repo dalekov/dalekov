@@ -22,8 +22,6 @@ I'm a passionate developer on a mission to grow and make an impact through code!
 
 <a href="https://github.com/"><img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" /></a>
-
-
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTTP"><img src="https://img.shields.io/badge/HTTP-5D5D5D?style=for-the-badge&logo=http&logoColor=white" alt="HTTP" /></a>
 
 
