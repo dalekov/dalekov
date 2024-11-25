@@ -16,6 +16,7 @@ I'm a passionate developer on a mission to grow and make an impact through code!
 <a href="https://www.w3.org/Style/CSS/"><img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" /></a>
 
 **Databases**:
+
 <a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" /></a>
 
 
