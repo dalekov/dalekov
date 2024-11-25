@@ -15,6 +15,10 @@ I'm a passionate developer on a mission to grow and make an impact through code!
 <a href="https://www.w3.org/html/"><img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" /></a>
 <a href="https://www.w3.org/Style/CSS/"><img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" /></a>
 
+**Databases**:
+<a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" /></a>
+
+
 **Libraries**:
 
 <a href="https://wiki.python.org/moin/TkInter"><img src="https://img.shields.io/badge/Tkinter-1F8F8C?style=for-the-badge&logo=python&logoColor=white" alt="Tkinter" /></a>
@@ -31,7 +35,6 @@ I'm a passionate developer on a mission to grow and make an impact through code!
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" /></a>
 <a href="https://www.djangoproject.com/"><img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" /></a>
 <a href="https://flask.palletsprojects.com/"><img src="https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" /></a>
-<a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" /></a>
 <a href="https://www.postgresql.org/"><img src="https://img.shields.io/badge/postgresql-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" /></a>
 
 
