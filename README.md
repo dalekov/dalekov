@@ -25,7 +25,7 @@ I'm a passionate developer on a mission to grow and make an impact through code!
 <a href="https://wiki.python.org/moin/TkInter"><img src="https://img.shields.io/badge/Tkinter-1F8F8C?style=for-the-badge&logo=python&logoColor=white" alt="Tkinter" /></a>
 <a href="https://pandas.pydata.org/"><img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTTP"><img src="https://img.shields.io/badge/HTTP-5D5D5D?style=for-the-badge&logo=http&logoColor=white" alt="HTTP" /></a>
-![BeautifulSoup Badge](https://img.shields.io/badge/BeautifulSoup-4.11.1-brightgreen)
+<a href="https://www.crummy.com/software/BeautifulSoup/"><img src="https://img.shields.io/badge/BeautifulSoup-4.11.1-brightgreen?style=for-the-badge&logo=python&logoColor=white" alt="BeautifulSoup" /></a>
 
 
 **Tools**:
