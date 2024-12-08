@@ -26,6 +26,8 @@ I'm a passionate developer on a mission to grow and make an impact through code!
 <a href="https://pandas.pydata.org/"><img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTTP"><img src="https://img.shields.io/badge/HTTP-5D5D5D?style=for-the-badge&logo=http&logoColor=white" alt="HTTP" /></a>
 <a href="https://www.crummy.com/software/BeautifulSoup/"><img src="https://img.shields.io/badge/BeautifulSoup-brightgreen?style=for-the-badge&logo=python&logoColor=white" alt="BeautifulSoup" /></a>
+<a href="https://www.selenium.dev/"><img src="https://img.shields.io/badge/Selenium-brightgreen?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium" /></a>
+
 
 
 
