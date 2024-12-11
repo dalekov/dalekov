@@ -64,6 +64,5 @@ I'm a passionate developer on a mission to grow and make an impact through code!
 [![Stack Overflow](https://img.shields.io/badge/-Stack_Overflow-FE7A16?style=flat&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/23987588/denignn)
 [![Discord](https://img.shields.io/badge/-Discord-7289DA?style=flat&logo=discord&logoColor=white)](https://discord.com/users/shmentikapeli)
 
-<a href='http://bgmafia.com/?affiliate_guid=2280'><img src='https://v2i.bgmafia.com/srv/bg.4/banners/2280.1.jpg' width='350' height='60' alt='denkatawe3' /></a>
 
 Thanks for stopping by, and let's keep coding!🚀
