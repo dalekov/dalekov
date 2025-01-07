@@ -9,6 +9,9 @@ I'm a passionate developer on a mission to grow and make an impact through code!
 
 ## 🛠️ Tech Stack
 
+**Currently working on**:
+<a href="https://github.com/dalekov"><img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" /></a>
+
 **Programming Languages**:
 
 <a href="https://github.com/dalekov"><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" /></a>
