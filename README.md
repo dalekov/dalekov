@@ -47,10 +47,6 @@ I'm a passionate developer on a mission to grow and make an impact through code!
 <a href="https://www.postgresql.org/"><img src="https://img.shields.io/badge/postgresql-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" /></a>
 
 
-
-
-
-
 ## 🚀 Highlighted projects:
 - 🏓 **Pong Game**: A fun two-player game built with Python and Turtle Graphics.
 - 🐍 **Snake Game**: Classic snake game where you grow longer by eating food.
@@ -66,6 +62,9 @@ I'm a passionate developer on a mission to grow and make an impact through code!
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:denis.alekov1@gmail.com)
 [![Stack Overflow](https://img.shields.io/badge/-Stack_Overflow-FE7A16?style=flat&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/23987588/denignn)
 [![Discord](https://img.shields.io/badge/-Discord-7289DA?style=flat&logo=discord&logoColor=white)](https://discord.com/users/shmentikapeli)
+
+
+![Denis's GitHub stats](https://github-readme-stats.vercel.app/api?username=dalekov&show_icons=true&theme=radical)
 
 
 Thanks for stopping by, and let's keep coding!🚀
