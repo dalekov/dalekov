@@ -64,7 +64,9 @@ I'm a passionate developer on a mission to grow and make an impact through code!
 [![Discord](https://img.shields.io/badge/-Discord-7289DA?style=flat&logo=discord&logoColor=white)](https://discord.com/users/shmentikapeli)
 
 
-![Denis's GitHub stats](https://github-readme-stats.vercel.app/api?username=dalekov&show_icons=true&theme=radical)
+🎉 **Thank You for Visiting My Profile!**
+
+![Visitor Count](https://komarev.com/ghpvc/?username=dalekov&color=brightgreen)
 
 
-Thanks for stopping by, and let's keep coding!🚀
+Let's keep coding!🚀
