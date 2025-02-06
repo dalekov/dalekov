@@ -49,6 +49,11 @@ I'm a passionate developer on a mission to grow and make an impact through code!
 
 
 ## 🚀 Highlighted projects:
+- 🤖 **LinkedIn Job Application Bot**: Automated job application tool using Selenium WebDriver for efficient job hunting.
+- ✈️ **Flight Deal Finder**: Web scraping application that finds and tracks the best flight deals across multiple destinations.
+- 📈 **Stock Trading News Alert**: Real-time stock monitoring system with automated news analysis and alerts.
+- 📊 **Workout Google Sheet Tracker**: Automated fitness tracking system that converts natural language input into structured workout data.
+- 📝 **Blog Capstone Project**: Full-featured blog platform built with Flask and Bootstrap, showcasing full-stack development skills.
 - 🏓 **Pong Game**: A fun two-player game built with Python and Turtle Graphics.
 - 🐍 **Snake Game**: Classic snake game where you grow longer by eating food.
 - 🍅 **Pomodoro Timer**: A productivity tool that uses the Pomodoro Technique to help manage time effectively with focused work sessions and breaks.
