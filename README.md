@@ -27,6 +27,7 @@ I'm a passionate developer on a mission to grow and make an impact through code!
 
 **Libraries**:
 
+<a href="https://docs.python.org/3/library/unittest.html"><img src="https://img.shields.io/badge/Unittest-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Unittest" /></a>
 <a href="https://wiki.python.org/moin/TkInter"><img src="https://img.shields.io/badge/Tkinter-1F8F8C?style=for-the-badge&logo=python&logoColor=white" alt="Tkinter" /></a>
 <a href="https://pandas.pydata.org/"><img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTTP"><img src="https://img.shields.io/badge/HTTP-5D5D5D?style=for-the-badge&logo=http&logoColor=white" alt="HTTP" /></a>
