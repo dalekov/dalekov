@@ -61,7 +61,7 @@ I'm a passionate developer on a mission to grow and make an impact through code!
 - 🔐 **Password Manager**: App to store and manage passwords. For personal use
 
 ## 🌟 What I'm Working On:
-- **100 Days of Code**: 70/100. Focused on completing this challenge, refining my skills with exciting projects.
+- **100 Days of Code**: 73/100. Focused on completing this challenge, refining my skills with exciting projects.
 - **Software Engineer with Python @Softuni**: Diving deeper into core concepts, strengthening my foundation in Python, JS, HTML, CSS.
 
 ## 📫 Let's Connect:
