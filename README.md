@@ -69,7 +69,7 @@ I'm a passionate developer on a mission to grow and make an impact through code!
 ## 🌟 What I'm Working On:
 - **100 Days of Code**: 76/100. Focused on completing this challenge, refining my skills with exciting projects.
 - **Software Engineer with Python @Softuni**: Diving deeper into core concepts, strengthening my foundation in Python, JS, HTML, CSS.
-- - **The Ultimate MySQL Bootcamp**: Expanding my SQL knowledge with real-world database projects and hands-on practice. 
+- **The Ultimate MySQL Bootcamp**: Expanding my SQL knowledge with real-world database projects and hands-on practice. 
 
 ## 📫 Let's Connect:
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dalekov/)
