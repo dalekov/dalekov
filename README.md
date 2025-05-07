@@ -15,6 +15,9 @@ I'm a passionate developer on a mission to grow and make an impact through code!
 <a href="https://github.com/dalekov"><img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" /></a>
 <a href="https://matplotlib.org/"><img src="https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib" /></a>
 <a href="https://plotly.com/"><img src="https://img.shields.io/badge/Plotly-3E8E41?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly" /></a>
+<a href="https://numpy.org/">
+  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+</a>
 
 
 **Programming Languages**:
