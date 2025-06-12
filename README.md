@@ -45,6 +45,7 @@ I'm a passionate developer on a mission to grow and make an impact through code!
 
 **Tools**:
 
+<a href="https://jupyter.org/"><img src="https://img.shields.io/badge/JupyterLab-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="JupyterLab" /></a>
 <a href="https://github.com/"><img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" /></a>
 
