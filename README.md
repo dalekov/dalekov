@@ -62,15 +62,15 @@ I'm a passionate developer on a mission to grow and make an impact through code!
 - 🤖 **LinkedIn Job Application Bot**: Automated job application tool using Selenium WebDriver for efficient job hunting.
 - ✈️ **Flight Deal Finder**: Web scraping application that finds and tracks the best flight deals across multiple destinations.
 - 📈 **Stock Trading News Alert**: Real-time stock monitoring system with automated news analysis and alerts.
-- 📊 **Workout Google Sheet Tracker**: Automated fitness tracking system that converts natural language input into structured workout data.
-- 📝 **Blog Capstone Project**: Full-featured blog platform built with Flask and Bootstrap, showcasing full-stack development skills.
-- 🏓 **Pong Game**: A fun two-player game built with Python and Turtle Graphics.
-- 🐍 **Snake Game**: Classic snake game where you grow longer by eating food.
+- 📊 [**Workout Google Sheet Tracker**](https://github.com/dalekov/Workout-Tracker): Automated fitness tracking system that converts natural language input into structured workout data.
+- 📝 [**Blog Capstone Project**](https://github.com/dalekov/my-blog): Full-featured blog platform built with Flask and Bootstrap, showcasing full-stack development skills.
+- 🏓 [**Pong Game**](https://github.com/dalekov/Pong): A fun two-player game built with Python and Turtle Graphics.
+- 🐍 [**Snake Game**](https://github.com/dalekov/Snake-Game-with-Turtle-Graphics): Classic snake game where you grow longer by eating food.
 - 🍅 [**Pomodoro Timer**](https://github.com/dalekov/Pomodoro-App): A productivity tool that uses the Pomodoro Technique to help manage time effectively with focused work sessions and breaks.
 - 🔐 [**Password Manager**](https://github.com/dalekov/Password-Manager-App): App to store and manage passwords. For personal use
 
 ## 🌟 What I'm Working On:
-- **100 Days of Code**: 76/100. Focused on completing this challenge, refining my skills with exciting projects.
+- **100 Days of Code**: 79/100. Focused on completing this challenge, refining my skills with exciting projects.
 - **Software Engineer with Python @Softuni**: Diving deeper into core concepts, strengthening my foundation in Python, JS, HTML, CSS.
 - **The Ultimate MySQL Bootcamp**: Expanding my SQL knowledge with real-world database projects and hands-on practice. 
 
